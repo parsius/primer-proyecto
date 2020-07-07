@@ -1,0 +1,12 @@
+table{
+	border: 1px solid black;
+}
+td{
+    padding: 0%;
+	border: 1px solid black;
+}
+td figure img{
+	width:170px;
+	height: 140px;
+
+}
